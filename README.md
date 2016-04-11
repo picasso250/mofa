@@ -6,4 +6,4 @@
 
 热议主题
 
-- #1
+- [如何提问题？如何回答问题？如何点赞？](https://github.com/picasso250/mofa/issues/1)
